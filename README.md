@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<span style="font-size:larger;">I'm a PhD student working on operating and distributed systems. Welcome to my place!</span>
+<span style="font-size:larger;">I am a PhD student working on operating and distributed systems. Welcome to my place!</span>
 
 <!--
 **samanta-amit/samanta-amit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
