@@ -2,8 +2,8 @@
 
 <span style="font-size:larger;">I am a PhD student working on operating and distributed systems. Welcome to my place!</span>
 
-- 🔭 I’m currently building reliable and scalable system for serverless platform.
-- 🌱 I’m currently learning MPK and Rust for system building. 
+- 🔭  I’m currently building reliable and scalable system for serverless platform.
+- 🌱  I’m currently learning MPK and Rust for system building. 
 
 <!--
 **samanta-amit/samanta-amit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
