@@ -2,7 +2,7 @@
 
 <span style="font-size:larger;">I am a PhD student working on operating and distributed systems. Welcome to my place!</span>
 
-- 🔭 I’m currently building reliable systems for serverless platform.
+- 🔭 I’m currently building reliable and scalable system for serverless platform.
 - 🌱 I’m currently learning MPK and Rust for system building. 
 
 <!--
